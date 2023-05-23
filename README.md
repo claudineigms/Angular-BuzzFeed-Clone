@@ -1,5 +1,7 @@
 # BuzzFeedDio
 
+A BuzzFeed clone developed by [Claudinei Gomes](https://github.com/claudineigms) in the [DIO](https://www.dio.me/) bootcamp with the teacher [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
